@@ -1,1 +1,1 @@
-
+chmod +x main.sh
